@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Blockchain , Data Science**
 
-- 📫 How to reach me **iitmvictor@gmil.com**
+- 📫 How to reach me **iitmvictor@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
