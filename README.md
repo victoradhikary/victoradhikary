@@ -1,5 +1,6 @@
-💻 Victor Adhikary
-Professional Flutter App Developer
+<h1 align="center">Hi 👋, I'm Victor Adhikary</h1>
+<h3 align="center">A passionate full-stack developer from India</h3>
+
 Welcome to my GitHub profile! I'm Victor Adhikary, a passionate and versatile developer specializing in Flutter app development. With a strong background in various technologies, I thrive on crafting innovative solutions that bridge the gap between ideas and execution.
 
 🛠 Skills & Expertise
