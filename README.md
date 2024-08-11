@@ -5,12 +5,14 @@
   Welcome to my GitHub profile! I'm Victor Adhikary, a passionate and versatile developer specializing in Flutter app development. With a strong background in various technologies, I thrive on crafting innovative solutions that bridge the gap between ideas and execution.
 
 🛠 Skills & Expertise
+
 Mobile App Development: Flutter, Android, iOS
 Web Development: HTML, CSS, JavaScript, React, Node.js
 Game Development: Unity, Unreal Engine
 Blockchain: Smart Contracts, Ethereum, Solidity
 Data Science & Machine Learning: Python, TensorFlow, Pandas
 Artificial Intelligence: AI Model Development, Neural Networks
+
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
