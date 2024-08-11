@@ -1,34 +1,49 @@
-<h1 align="center">Hi 👋, I'm Victor Adhikary</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+# 💻 Victor Adhikary
 
-<p align="left">
-  Welcome to my GitHub profile! I'm Victor Adhikary, a passionate and versatile developer specializing in Flutter app development. With a strong background in various technologies, I thrive on crafting innovative solutions that bridge the gap between ideas and execution.
+### **Professional Flutter App Developer**
 
-🛠 Skills & Expertise
+---
 
-Mobile App Development: Flutter, Android, iOS
-Web Development: HTML, CSS, JavaScript, React, Node.js
-Game Development: Unity, Unreal Engine
-Blockchain: Smart Contracts, Ethereum, Solidity
-Data Science & Machine Learning: Python, TensorFlow, Pandas
-Artificial Intelligence: AI Model Development, Neural Networks
+Welcome to my GitHub profile! I'm Victor Adhikary, a passionate and versatile developer specializing in Flutter app development. With a strong background in various technologies, I thrive on crafting innovative solutions that bridge the gap between ideas and execution.
 
-</p>
+---
+
+### **🛠 Skills & Expertise**
+
+- **Mobile App Development**: Flutter, Android, iOS
+- **Web Development**: HTML, CSS, JavaScript, React, Node.js
+- **Game Development**: Unity, Unreal Engine
+- **Blockchain**: Smart Contracts, Ethereum, Solidity
+- **Data Science & Machine Learning**: Python, TensorFlow, Pandas
+- **Artificial Intelligence**: AI Model Development, Neural Networks
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/victoradhikary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victoradhikary" height="30" width="40" /></a>
 <a href="https://instagram.com/v1ctoradhikary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="v1ctoradhikary" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/codemastervictor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codemastervictor" height="30" width="40" /></a>
 </p>
-💼 Professional Journey
+
+---
+
+### **💼 Professional Journey**
+
 Throughout my career, I've developed a wide range of applications, from mobile apps to blockchain solutions. My work is driven by a deep understanding of technology and a passion for learning and exploring new frontiers.
 
-🚀 What I'm Working On
+---
+
+### **🚀 What I'm Working On**
+
 I'm currently focused on:
 
-Enhancing my AI and machine learning skills
-Exploring the latest in blockchain technology
-Developing innovative apps using Flutter
+- Enhancing my AI and machine learning skills
+- Exploring the latest in blockchain technology
+- Developing innovative apps using Flutter
+
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://developer.android.com" target="_blank" rel="noreferrer">
@@ -131,6 +146,11 @@ Developing innovative apps using Flutter
   <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> 
 </a> 
 </p>
+
+---
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victoradhikary&show_icons=true&locale=en&layout=compact" alt="victoradhikary" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victoradhikary&show_icons=true&locale=en" alt="victoradhikary" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victoradhikary&" alt="victoradhikary" /></p>
